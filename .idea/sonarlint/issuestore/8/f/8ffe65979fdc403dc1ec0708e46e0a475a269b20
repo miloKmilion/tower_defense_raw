@@ -1,0 +1,9 @@
+
+Œpython:S2208"GImport only needed names or import the module and then use its members.(ï€¢8œ„‚’å1J$e7ed06c3-a251-4b7f-959f-c68bbbf98055
+ppython:S1481"+Replace the unused loop index "x" with "_".(óÌæş8„‚’å1J$02e90537-a4b9-4e01-9cda-26f505fafe32
+ppython:S1481"+Replace the unused loop index "y" with "_".(óÌæş8„‚’å1J$d0038b5d-52dd-4cdc-9681-fd13290b2288
+ppython:S1481)"+Replace the unused loop index "x" with "_".(ĞíÔ8„‚’å1J$9b4a65d3-e9f9-47a8-ae4a-a63c8c2e14d7
+ppython:S1481)"+Replace the unused loop index "y" with "_".(ĞíÔ8„‚’å1J$2feaeb30-fd3a-482f-8e63-4e6aacb78760
+python:S117"SRename this parameter "mapName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾È¦úÿÿÿÿ8‡Ö‚’å1J$a35667fc-fb59-42db-8046-979048653154
+Ÿpython:S1186ª"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Öùõâ8‡Ö‚’å1J$8a81da26-0bc5-4391-9f18-99beaef52a19
+mpython:S1481¾"(Remove the unused local variable "game".(ş à8„‚’å1J$5013208f-e1e9-4018-abb6-d7283b63ba73
